@@ -1,1 +1,1 @@
-Git assigmnets for day 0 @ALX SE
+Git assigmnents for day-0 of ALX SE
